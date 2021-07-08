@@ -1,3 +1,3 @@
 # PriceTable
 Single page project of a simple price table UI.
-![](images/Capture.PNG)
+![](Images/Capture.PNG)
