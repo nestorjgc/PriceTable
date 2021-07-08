@@ -6,7 +6,6 @@
 <b>Skills used:</b>
   <p></p>
   <ul>
-<li>JavaScript.</li>
   <li>Bootstraps.</li>
   <li>HTML.</li>
   <li>CSS.</li>
